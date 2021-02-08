@@ -1,0 +1,9 @@
+User:
+  user:
+    name: 'Isabella'
+    email: 'isa@bella.com'
+
+Post:
+  post:
+    title: 'My Awesome Post'
+    user: '@user'
